@@ -1,0 +1,36 @@
+body {
+    background: #f67590;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+
+};
+
+.main-wrap{
+    width: 100%;
+    max-width: 1522px;
+    margin: 0 auto;
+   
+};
+nav a {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0 25px;
+    text-decoration: none;
+   
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+    background: white;
+    padding: 50px 100px;
+
+}
